@@ -1,0 +1,32 @@
+_repo: His-Dog_2393
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Terhune, Albert Payson
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '891'
+    url: http://www.gutenberg.org/2009/agents/891
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Payson_Terhune
+description: 'Albert Payson Terhune, an acclaimed journalist and collie expert, shot
+  to literary fame as the author of a beloved series of tales featuring his own collie,
+  Lad. In His Dog, Terhune explores the dog-human bond from a different angle: a young
+  farmer finds an injured dog and nurses it back to health, only to discover that
+  the resulting friendship is more than he ever bargained for -- in more ways than
+  one.'
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: His Dog
+url: http://www.gutenberg.org/ebooks/2393
